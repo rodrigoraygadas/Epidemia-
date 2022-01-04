@@ -34,7 +34,7 @@ Y se muestran otros dos gráficos, uno con el número de contagiaos y el número
 
 Se generan archivos de formato .pov que deben renderizarse para generar archivos .png y ver como evoluciona la pandemia.
 
-La simulación para este programa dura 200 días
+La simulación para este ejemplo dura 200 días. Se generaron los 200 archivos .pov, se renderizaron para obtener 200 imágenes y se creo un clip de vídeo.
 
 https://user-images.githubusercontent.com/79610750/148009291-28d0ff88-e9ce-43d2-bcda-3b2897610dca.mp4
 
